@@ -1,4 +1,4 @@
-# The C Programming Language Book Exercises
+# The C Programming Language Book (2nd Edition) Solutions
 
 ### Chapter 1: A Tutorial Introduction
 ##### 1.1 Getting Started
@@ -16,8 +16,8 @@
 
 ##### 1.5 Character Input and Output
 ###### 1.5.1 File Copying
-    In Progress Exercise 1-6
-    In Progress Exercise 1-7
+    Done Exercise 1-6
+    Done Exercise 1-7
 ###### 1.5.2 Character Counting
 ###### 1.5.3 Line Counting
     In Progress Exercise 1-8
