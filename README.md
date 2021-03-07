@@ -20,9 +20,13 @@
     Done Exercise 1-7
 ###### 1.5.2 Character Counting
 ###### 1.5.3 Line Counting
-    In Progress Exercise 1-8
-    In Progress Exercise 1-9
-    In Progress Exercise 1-10
+    Done Exercise 1-8
+    Done Exercise 1-9
+    Done Exercise 1-10
 ###### 1.5.4 Word Counting
-    In Progress Exercise 1-11
-    In Progress Exercise 1-12
+    Done Exercise 1-11
+    Done Exercise 1-12
+
+##### 1.6 Arrays
+    In Progress Exercise 1-13
+    In Progress Exercise 1-14
