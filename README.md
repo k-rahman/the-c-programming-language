@@ -28,5 +28,8 @@
     Done Exercise 1-12
 
 ##### 1.6 Arrays
-    In Progress Exercise 1-13
-    In Progress Exercise 1-14
+    Done Exercise 1-13
+    Done Exercise 1-14
+
+##### 1.7 Functions
+    In Progress Exercise 1-15
